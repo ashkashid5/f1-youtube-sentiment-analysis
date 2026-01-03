@@ -1,0 +1,5 @@
+pandas
+numpy
+nltk
+python-dotenv
+google-api-python-client
